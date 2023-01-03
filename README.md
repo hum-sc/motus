@@ -1,2 +1,3 @@
 # motus
-Una app para comunicar tus emociones con las personas que aprecias.
+Bienvenidos a motus, una app para compartir tus emociones con las personas que más quieres.
+Estatus del proyecto
