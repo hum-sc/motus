@@ -9,3 +9,6 @@ Bienvenidos a motus, una app para compartir tus emociones con las personas que m
 - [ ] Borrar dispositivos desde donde sea que hayas iniciado sesión.
 - [ ] Autenticación en dos factores.
 - [ ] Aplicación web, android, ios.
+
+## Servicios
+- Authentication
